@@ -2,3 +2,4 @@
 - This is my work account. My personal account is [@abhishandy](https://github.com/abhishandy)
 - 👀 I’m interested in Bitcoin, Lightning and web-development
 - 📫 How to reach me: ashandilya[at]greenactionstudio[dot]com
+- Twitter: [@abhishandy](https://twitter.com/abhiShandy)
