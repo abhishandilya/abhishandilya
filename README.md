@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Abhishek Shandilya
-- This is my work account. My personal account is [@abhishandy](https://github.com/abhishandy)
-- 👀 I’m interested in electric vehicles and its charging infrastructure.
-- 📫 How to reach me: ashandilya[at]greenactionstudio[dot]com
-- Twitter: [@abhishandy](https://twitter.com/abhiShandy)
+
